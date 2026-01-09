@@ -1,0 +1,1 @@
+The file creditriskmertonmodelcat.pdf is a one-page presentation of the default probability of a selected Canadian company using Merton/KMV and CreditMetric model. The credit risk was assessed based on data available online and few assumptions over a 5-year period.
